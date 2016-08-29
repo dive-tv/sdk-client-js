@@ -1,0 +1,19 @@
+{
+  "name": "sdk-client-js",
+  "version": "1.0.0",
+  "description": "Javascript client that deals with the Touchvie API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/touchvie/sdk-client-js.git"
+  },
+  "author": "Tagsonomy S.L.",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/touchvie/sdk-client-js/issues"
+  },
+  "homepage": "https://github.com/touchvie/sdk-client-js#readme"
+}
